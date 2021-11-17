@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoGinge
-- 👀 I’m interested in Cloud Security
-- 🌱 I’m currently learning GCP Assiocate Engeeer 
+- 👀 I’m interested in Cloud Security & Javascript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
